@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Trey-P",
+  "repo": "container-me5ie1u",
+  "name": "Trey-P",
+  "email": "tuf27552@temple.edu",
+}
